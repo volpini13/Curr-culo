@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+/* style.css */
+
+body {
+    background-color: gray; /* Cor de fundo suave */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+   
+}
+
+.navbar {
+    margin-bottom: 20px; /* Espaço abaixo da navbar */
+}
+
+.nav-link {
+    font-weight: bold; /* Negrito para links */
+    color: #28a745; /* Cor verde para links */
+}
+
+.nav-link:hover {
+    color: #ffffff; /* Cor branca ao passar o mouse */
+}
+
+h1 {
+    margin: 20px 0; /* Margem em cima e embaixo do título */
+    font-size: 2.5rem; /* Tamanho da fonte do título */
+}
+
+h2 {
+    margin-top: 20px;
+
+}
+
